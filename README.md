@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mariojey
 - 👀 I’m interested in full stack.
-- 🌱 I’m currently learning Bootstrap 5, PHP.
+- 🌱 I’m currently learning SQL, PHP.
 - Sometimes, I work in Python
 - So far, I'm no active
 
