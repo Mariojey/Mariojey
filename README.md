@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack.
 - 🌱 I’m currently learning REST API, Discord.JS .
 - I often work in PHP&MySQL or Python.
-- So far, I'm no active
+- So far, I'm not active
 
 <!---
 Mariojey/Mariojey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
