@@ -1,9 +1,37 @@
 - 👋 Hi, I’m @Mariojey
 - 👀 I’m interested in full stack.
 - 🌱 I’m currently learning REST API, Discord.JS
-- 💻 Now I'm working on Gate-Way Logic Game .
-- I often work in PHP&MySQL or Python.
-- So far, I'm not active
+
+
+- 💻 Last time I have worked on:
+  🎮 Gate-Way - Singleplayer logic game developing in Unity 2D
+      ProximaNetwork - Minecraft Sever with many diffrent modes.
+      Discord information bot. (Node.js, discord.js, JavaScript)
+- 
+
+I have experience with:
+C++
+C#
+Python
+
+JavaScript
+HTMl
+CSS
+SCSS
+Node.js
+Express.js
+Discord.js
+
+PHP
+
+MySQl
+OracleSQL
+
+Capture The Flage competioions:
+-Stenography
+-Reverse Engeenering
+-Cryptography
+  
 
 <!---
 Mariojey/Mariojey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
