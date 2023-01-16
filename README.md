@@ -1,33 +1,27 @@
 - 👋 Hi, I’m @Mariojey
 - 👀 I’m interested in full stack.
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS and Node.js
 
 
 - 💻 Last time I have worked on:
-  🎮 Gate-Way - Singleplayer logic game developing in Unity 2D
-      ProximaNetwork - Minecraft Sever with many diffrent modes.
-      Discord information bot. (Node.js, discord.js, JavaScript)
+  
   🗳️ Jaskółka - Mobile App and website made with React JS and React Native 
       for voting online.
 - 
 
 I have experience with:
-C++
-C#
 Python
-
 JavaScript
+*Node.js
+*Express.js
+*Discord.js
+ReactJS
 HTMl
 CSS
-SCSS
-Node.js
-Express.js
-Discord.js
+MongoDB
+MySQL
 
-PHP
 
-MySQl
-OracleSQL
 
 Capture The Flage competioions:
 -Stenography
