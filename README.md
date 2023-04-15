@@ -7,6 +7,7 @@
   
   🗳️ Jaskółka - Mobile App and website made with React JS and React Native 
       for voting online.
+  Employees - CRUD app making with MERN(mongo, express, react, node.js)
 - 
 
 I have experience with:
